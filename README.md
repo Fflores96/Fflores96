@@ -13,6 +13,7 @@ ingeniería mecánica.
 | Proyecto | Qué es | Tecnología |
 |---|---|---|
 | [Calculadora de sistemas de bombeo](https://github.com/Fflores96/calculadora-bombeo) · [demo](https://fflores96.github.io/calculadora-bombeo/) | Pérdidas de carga, curva del sistema, punto de operación y NPSH, con memoria de cálculo y fuentes citadas | JavaScript, HTML/CSS |
+| [Calculadora de ejes](https://github.com/Fflores96/calculadora-ejes) · [demo](https://fflores96.github.io/calculadora-ejes/) | Diseño de ejes con análisis estático (Philpot) y a fatiga (Shigley): diagramas, puntos críticos y diámetro mínimo; versión web y TI-Nspire | JavaScript, MicroPython |
 | [Calculadora de parámetros de corte CNC](https://github.com/Fflores96/calculadora-corte-cnc) | Velocidad, avance, potencia y torque para fresado y torneado, con datos de catálogo Sandvik y Haas | Python, Tkinter |
 | [Herramientas de cálculo para TI-Nspire](https://github.com/Fflores96/ti-nspire-ingenieria) | Programas paso a paso para piping, esfuerzos en vigas y transformada de Laplace | MicroPython |
 | Servidor de agentes de IA autoalojado *(próximamente)* | Caso de estudio: asistentes de IA aislados en contenedores, accesibles por mensajería | Linux, Docker |
